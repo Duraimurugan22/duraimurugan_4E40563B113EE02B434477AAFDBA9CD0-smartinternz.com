@@ -36,7 +36,7 @@ class bankaccount:
 
 
 #creating instance for class
-s = bankaccount(123456789, "Vignesh", 0.0)
+s = bankaccount(123456789, "Duraimurugan", 0.0)
 
 s.deposit(2000)
 s.withdarwal(1500)
